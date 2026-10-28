@@ -1,2 +1,2 @@
-#dohuja horoshii kod
+#sample
 
